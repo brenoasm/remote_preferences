@@ -1,7 +1,7 @@
 name: remote_preferences
 description: A package to save preferences in the cloud.
 version: 1.0.0
-homepage:
+homepage: https://github.com/brenoasm/remote_preferences
 maintainer: Breno Augusto
 
 environment:
